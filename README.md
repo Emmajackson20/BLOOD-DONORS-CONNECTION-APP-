@@ -70,8 +70,8 @@ A: Yes, navigate to Settings > Delete Account.
 
 7. Support & Feedback 
 For issues or suggestions:  
-📧 Email: blooddonorsconnectionapp support@gmail.com
-🐛 Report Bugs:  (link to your repo’s issues page)  
+📧 Email: blooddonorsconnectionapp.support@gmail.com
+ Report Bugs: blooddonorsconnectionapp.support@gmail.com 
 
 8. Contributing
 Want to improve BDCA? Contributions are welcome!  

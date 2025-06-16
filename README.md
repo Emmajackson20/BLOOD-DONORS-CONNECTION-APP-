@@ -34,7 +34,7 @@ The Blood Donors Connection App (BDCA) is a platform designed to bridge the gap 
 
 3. Installation 
 For Android Users 
-1. Download the APK from [GitHub Releases] https://blood donors connection app.com.  
+1. Download the APK from https://blooddonorsconnectionapp.com
 2. Enable "Install from Unknown Sources" in your device settings.  
 3. Install the APK and open the app.  
 For iOS Users
